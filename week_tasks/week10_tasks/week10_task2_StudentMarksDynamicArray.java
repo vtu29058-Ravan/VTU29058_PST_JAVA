@@ -1,6 +1,6 @@
 import java.util.*;
 
-public{
+public class week10_task2_StudentMarksDynamicArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         List<Integer> marks = new ArrayList<>();

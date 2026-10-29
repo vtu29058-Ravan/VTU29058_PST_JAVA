@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class  {
+public class week10_task4_StudentMarksArrayList {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         List<Double> marks = new ArrayList<>();
